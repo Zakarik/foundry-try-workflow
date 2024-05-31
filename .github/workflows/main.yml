@@ -82,7 +82,7 @@ jobs:
             `# Options`                          \
             --recurse-paths                      \
             `# The name of the output file`      \
-             ./module.zip                        \
+             ./system.zip                        \
             `# The files that will be included.` \
             system.json                          \
             README.md                            \
