@@ -2,7 +2,7 @@
   "id": "donjons-et-chatons",
   "title": "Donjons et Chatons",
   "description": "La fiche officielle de Donjons et Chatons, approuvée par Deadcrows.",
-  "version": "1.1.1",
+  "version": "#{VERSION}#",
   "esmodules": [
     "module/dc.mjs"
   ],
@@ -89,9 +89,9 @@
   "gridUnits": "m",
   "primaryTokenAttribute": "coeur",
   "secondaryTokenAttribute": "amitie",
-  "url": "https://github.com/Zakarik/foundry-donjonsetchatons",
-  "manifest": "https://raw.githubusercontent.com/Zakarik/foundry-donjonsetchatons/main/system.json",
-  "download": "https://github.com/Zakarik/foundry-donjonsetchatons/archive/1.1.1.zip",
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
   "changelog": "https://raw.githubusercontent.com/Zakarik/foundry-donjonsetchatons/main/Changelog.md",
   "readme": "https://raw.githubusercontent.com/Zakarik/foundry-donjonsetchatons/main/README.md"
 }
